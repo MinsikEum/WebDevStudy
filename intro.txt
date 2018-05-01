@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+	<title>Full screen landing page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<section class="intro">
+		<div class="inner">
+			<div class="content">
+				<h1>Breath Easy</h1>
+				<a class="btn" href="#">Get Started</a>
+			
+		</div>
+	</section>
+	<p>대원이는 망했다하는데</p>
+	<p>나는 망했을까 걱정된다 뭐하는건지도 모르겠고 허참 ㅋㅋㅋㅋ</p>
+	<p>에디터 없이도 되는걸까. 갑자기 준수가 에디터 쓰자고한다. 욕나온다고. 뭐여 얘</p>
+
+
+</body>
+</html>
